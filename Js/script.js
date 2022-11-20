@@ -22,7 +22,7 @@ const loop = setInterval(() => {
         mario.style.animation = 'none';
         mario.style.bottom = '${marioPosition)px';
 
-        mario.src = './imagens/catOver.gif';
+        mario.src = './Imagens/catOver.gif';
         mario.style.width = '300px'
         mario.style.marginLeft = '-30px'
         mario.style.bottom = '65px'       
